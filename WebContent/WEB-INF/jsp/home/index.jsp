@@ -4,10 +4,5 @@
 <%@ taglib tagdir="/WEB-INF/tags" prefix="tag" %>
 
 <tag:template>
-	<h1>oi, meu chapa</h1>
-	
-	<p>${cerveja.nome}</p>
-	<p>${cerveja.preco}</p>
-	<p>${cerveja.tipo}</p>
-
+	<h1>Oi meu chapa</h1>
 </tag:template>
